@@ -22,9 +22,7 @@
       "select-name": "",
       "characteristics": {
         "gender": "", "species": "",
-        "appearsIn": "", "bothAppearsIn": {
-          "Link": ""
-        },
+        "appearsIn": "", "bothAppearsIn": {},
         "genre": "", "allGenres": [],
         "platform": "", "allPlatforms": [],
         "role": "", "genRole": "",
@@ -39,9 +37,7 @@
       "select-name": "",
       "characteristics": {
         "gender": "", "species": "",
-        "appearsIn": "", "bothAppearsIn": {
-          "Link": ""
-        },
+        "appearsIn": "", "bothAppearsIn": {},
         "genre": "", "allGenres": [],
         "platform": "", "allPlatforms": [],
         "role": "", "genRole": "",
@@ -54,9 +50,7 @@
       "select-name": "",
       "characteristics": {
         "gender": "", "species": "",
-        "appearsIn": "", "bothAppearsIn": {
-          "Link": ""
-        },
+        "appearsIn": "", "bothAppearsIn": {},
         "genre": "", "allGenres": [],
         "platform": "", "allPlatforms": [],
         "role": "", "genRole": "",
@@ -69,9 +63,7 @@
       "select-name": "",
       "characteristics": {
         "gender": "", "species": "",
-        "appearsIn": "", "bothAppearsIn": {
-          "Link": ""
-        },
+        "appearsIn": "", "bothAppearsIn": {},
         "genre": "", "allGenres": [],
         "platform": "", "allPlatforms": [],
         "role": "", "genRole": "",
@@ -84,9 +76,7 @@
       "select-name": "",
       "characteristics": {
         "gender": "", "species": "",
-        "appearsIn": "", "bothAppearsIn": {
-          "Link": ""
-        },
+        "appearsIn": "", "bothAppearsIn": {},
         "genre": "", "allGenres": [],
         "platform": "", "allPlatforms": [],
         "role": "", "genRole": "",
