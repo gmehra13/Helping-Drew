@@ -1,0 +1,99 @@
+{
+  "example full character": [
+    {
+      "name": "Mario",
+      "select-name": "Mario (Super Mario Bros)",
+      "characteristics": {
+        "gender": "male", "species": "Human",
+        "appearsIn": "Super Mario Bros.", "bothAppearsIn": {
+          "Link": "Super Smash Bros."
+        },
+        "genre": "platform", "allGenres": ["fantasy", "adventure", "platform"],
+        "platform": "video games", "allPlatforms": ["tv series", "video games"],
+        "role": "titular protagonist", "genRole": "good",
+        "year": 1983, "decade": 1980,
+        "id": 10
+      }
+    }
+  ],
+  "example template character": [
+    {
+      "name": "",
+      "select-name": "",
+      "characteristics": {
+        "gender": "", "species": "",
+        "appearsIn": "", "bothAppearsIn": {
+          "Link": ""
+        },
+        "genre": "", "allGenres": [],
+        "platform": "", "allPlatforms": [],
+        "role": "", "genRole": "",
+        "year": 0, "decade": 0,
+        "id": 0
+      }
+    }
+  ],
+  "gen characters": [
+    {
+      "name": "",
+      "select-name": "",
+      "characteristics": {
+        "gender": "", "species": "",
+        "appearsIn": "", "bothAppearsIn": {
+          "Link": ""
+        },
+        "genre": "", "allGenres": [],
+        "platform": "", "allPlatforms": [],
+        "role": "", "genRole": "",
+        "year": 0, "decade": 0,
+        "id": 0
+      }
+    },
+    {
+      "name": "",
+      "select-name": "",
+      "characteristics": {
+        "gender": "", "species": "",
+        "appearsIn": "", "bothAppearsIn": {
+          "Link": ""
+        },
+        "genre": "", "allGenres": [],
+        "platform": "", "allPlatforms": [],
+        "role": "", "genRole": "",
+        "year": 0, "decade": 0,
+        "id": 0
+      }
+    },
+    {
+      "name": "",
+      "select-name": "",
+      "characteristics": {
+        "gender": "", "species": "",
+        "appearsIn": "", "bothAppearsIn": {
+          "Link": ""
+        },
+        "genre": "", "allGenres": [],
+        "platform": "", "allPlatforms": [],
+        "role": "", "genRole": "",
+        "year": 0, "decade": 0,
+        "id": 0
+      }
+    },
+    {
+      "name": "",
+      "select-name": "",
+      "characteristics": {
+        "gender": "", "species": "",
+        "appearsIn": "", "bothAppearsIn": {
+          "Link": ""
+        },
+        "genre": "", "allGenres": [],
+        "platform": "", "allPlatforms": [],
+        "role": "", "genRole": "",
+        "year": 0, "decade": 0,
+        "id": 0
+      }
+    }
+  ]
+}
+
